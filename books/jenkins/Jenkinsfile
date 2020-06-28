@@ -13,7 +13,7 @@ label 'nodejs'
         //TODO: Edit these vars as per your env
         DEV_PROJECT = "chir050-books-dev"
         STAGE_PROJECT = "chir050-books-stage"
-        APP_GIT_URL = "https://github.com/youruser/DO288-apps"
+        APP_GIT_URL = "https://github.com/chir050/DO288-apps"
         NEXUS_SERVER = "nexus-common.apps.ocp-eu2.prod.nextcle.com"
 
         // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
